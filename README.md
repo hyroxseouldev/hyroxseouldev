@@ -16,10 +16,13 @@ cursor pro
 
 감각적인 건축 스튜디오 디자인 사이트
 
-💬 Just Forum
-🔗 https://justforum-five.vercel.app/
-
-커뮤니티 게시판 플랫폼
-
 claude shortcut quiz
-https://claude-shortcut-quiz.vercel.app/
+
+🔗 https://claude-shortcut-quiz.vercel.app/
+
+💆 나다움 프로젝트
+
+🔗 https://www.nadaumstory.com/
+
+나다움을 찾는 여정을 담은 팝업 카페
+
